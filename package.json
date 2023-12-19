@@ -1,7 +1,7 @@
 {
   "name": "solux-extension",
   "displayName": "Solux Extension",
-  "description": "",
+  "description": "Extension pack for Starter Developers in order to build great Projects",
   "publisher": "Solux",
   "version": "0.0.1",
   "engines": {
@@ -10,7 +10,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "icon":"icon/solicon.jpg",
+  "icon": "icon/solicon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/Novus-Tech237/solux-extension"
@@ -26,6 +26,9 @@
     "vscode-icons-team.vscode-icons",
     "ritwickdey.LiveServer",
     "formulahendry.code-runner",
-    "adpyke.codesnap"
+    "adpyke.codesnap",
+    "intellisense-css-class-names",
+    "bracket-pair-colorizer-2",
+    "eslint"
   ]
 }
