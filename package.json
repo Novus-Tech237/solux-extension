@@ -11,6 +11,11 @@
     "Extension Packs"
   ],
   "icon":"icon/solicon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Novus-Tech237/solux-extension"
+  },
+  "license": "MIT",
   "extensionPack": [
     "ms-python.python",
     "ms-python.vscode-pylance",
