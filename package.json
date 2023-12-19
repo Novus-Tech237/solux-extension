@@ -1,0 +1,26 @@
+{
+  "name": "solux-extension",
+  "displayName": "Solux Extension",
+  "description": "",
+  "publisher": "Solux",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon":"icon/solicon.jpg",
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "eamodio.gitlens",
+    "usernamehw.errorlens",
+    "batisteo.vscode-django",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "ritwickdey.LiveServer",
+    "formulahendry.code-runner",
+    "adpyke.codesnap"
+  ]
+}
