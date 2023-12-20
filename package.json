@@ -26,9 +26,6 @@
     "vscode-icons-team.vscode-icons",
     "ritwickdey.LiveServer",
     "formulahendry.code-runner",
-    "adpyke.codesnap",
-    "intellisense-css-class-names",
-    "bracket-pair-colorizer-2",
-    "eslint"
+    "adpyke.codesnap"
   ]
 }
